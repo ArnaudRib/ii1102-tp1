@@ -1,0 +1,14 @@
+ -->Qu'est ce que la JVM ?
+ 
+La JVM est une Machine Virtuelle Java. 
+C'est un environnement d'exécution de programmes Java compilés sous forme de Bytecode. 
+Elle assure l'indépendance du matériel et du système d'exploitation lors de l'exécution des applications Java. 
+ 
+_____
+ 
+ -->  Quels sont les avantages de cette technologie ?
+
+Elle permet d'interpréter du bytecode, de le compiler et de l'exécuter, ce qu'un système d'exploitation ne peut faire.
+Elle gère aussi la mémoire.
+Le code Java est compilé en instructions compréhensibles par la machine virtuelle qui interprétera elle-même ces instructions pour que l'ordinateur puisse les comprendre. 
+C'est donc l'intermédiaire entre instruction et exécution dans un ordinateur.
