@@ -8,7 +8,6 @@ _____
  
  -->  Quels sont les avantages de cette technologie ?
 
-Elle permet d'interpréter du bytecode, de le compiler et de l'exécuter, ce qu'un système d'exploitation ne peut faire.
-Elle gère aussi la mémoire.
+Elle permet d'interpréter du bytecode, de le compiler et de l'exécuter, ce qu'un système d'exploitation ne peut faire. Elle gère aussi la mémoire.
 Le code Java est compilé en instructions compréhensibles par la machine virtuelle qui interprétera elle-même ces instructions pour que l'ordinateur puisse les comprendre. 
 C'est donc l'intermédiaire entre instruction et exécution dans un ordinateur.
